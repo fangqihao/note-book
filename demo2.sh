@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 mkdir example
 mv ex01.c example/
 mv example/ex01.c example/example.c
